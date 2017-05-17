@@ -3,6 +3,5 @@
 	"bottomtext":"",
 	"bottomimg":"",
 	"topdata": "https://raw.githubusercontent.com/wxappdata/dayreport/master/topdata",
-	"indexdata": "https://raw.githubusercontent.com/wxappdata/dayreport/master/indexdata/",
-	"file":"day"
+	"indexdata": "https://raw.githubusercontent.com/wxappdata/dayreport/master/indexdata/day"
 }
