@@ -2,6 +2,6 @@
 	"imgurl":"https://raw.githubusercontent.com/wxappdata/dayreport/master/image/",
 	"bottomtext":"",
 	"bottomimg":"",
-	"topdata": "https://raw.githubusercontent.com/wxappdata/dayreport/master/topdata",
-	"indexdata": "https://raw.githubusercontent.com/wxappdata/dayreport/master/indexdata/day"
+	"topdata": "https://raw.githubusercontent.com/wxappdata/dayreport/master/topdata/",
+	"indexdata": "https://raw.githubusercontent.com/wxappdata/dayreport/master/indexdata/day/"
 }
