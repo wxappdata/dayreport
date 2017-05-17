@@ -1,0 +1,14 @@
+{
+      	"id":"1",
+      	"type":"名胜简介",
+      	"color":"dodgerblue",
+      	"date":"2017-04-24",
+      	"image":"top1.png",
+      	"title":"玉龙雪山",
+		"other_detail":[
+      	{"text":"玉龙雪山位于东经100°4′2″～100°16′30″、北纬27°3′2″～27°18′57″之间，主峰扇子陡海拔5596米，终年积雪，发育有亚欧大陆距离赤道最近的温带海洋性冰川。","image":"top1.png","position":"right","display":"keeplong"},
+      	{"text":"玉龙雪山在纳西语中被称为“欧鲁”，意为银色的山岩。其银装素裹，十三座雪峰连绵不绝，宛若一条“巨龙”腾越飞舞，故称为“玉龙”。又因玉龙雪山的岩性主要为石灰岩与玄武岩，黑白分明，所以，又称为“黑白雪山”。玉龙雪山是纳西人民心中的神山，传说是纳西族保护神“三多”的化身。","image":"xueshan1.png","position":"left","display":"keepshort"},
+		{"text":"玉龙雪山自然资源丰富，最具观赏价值的属高山雪域景观、水域景观、森林景观和草甸景观，这些独具特色的自然景观每年吸引着无数的游客到此观光游览。","image":"xueshan2.png","position":"up","display":"fixwidth"},
+		{"text":"2001年，玉龙雪山被评为4A级旅游景区，2007年5月成为全国首批5A级旅游景区。","image":"xueshan2.png","position":"bottom","display":"auto"}
+      	]
+      }
