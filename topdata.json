@@ -2,18 +2,18 @@
  {
       "id": "1",
       "text": "玉龙雪山",
-      "image":"top1.png"
+      "image":"scenery/top1.png"
       
     },
     {
       "id": "2",
-      "image":"top2.png",
+      "image":"scenery/top2.png",
       "text": "万里长城"
       
     },
     {
       "id": "3",
-      "image":"top3.png",
+      "image":"strategy/top3.png",
       "text": "故宫"
       
     }

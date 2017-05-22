@@ -1,0 +1,43 @@
+{
+	"baseurl":"https://raw.githubusercontent.com/wxappdata/dayreport/master/",
+	"bottomtext":"",
+	"bottomimg":"",
+	"topdata": "https://raw.githubusercontent.com/wxappdata/dayreport/master/topdata.json",
+	"indexdata": "https://raw.githubusercontent.com/wxappdata/dayreport/master/indexdata.json",
+	"searchtype":[
+		{"名胜简介":"scenery"},
+		{"旅游攻略":"strategy"}
+		],
+	"transform":{
+		"基本路径":"baseurl",
+		"底部介绍文字":"bottomtext",
+		"底部商标图片":"bottomimg",
+		"顶部轮播数据":"topdata",
+		"具体内容数据":"indexdata",
+		"序号":"id",
+		"类型":"type",
+		"颜色":"color",
+		"图片":"image",
+		"日期":"data",
+		"标题":"title",
+		"每日简讯":"info_detail",
+		"其他信息":"other_detail",
+		"内容":"text",
+		"默认是否弹出":"open",
+		"图片位置":"position",
+		"位于文字上方":"up",
+		"位于文字下方":"bottom",
+		"文字环绕方式图片位于右侧":"right",
+		"文字环绕方式图片位于左侧":"left",
+		"图片格式":"display",
+		"保持纵横比例使长边能完全显示":"keeplong",
+		"保持纵横比例使短边能完全显示":"keepshort",
+		"宽度不变高度根据横纵比自动变化":"fixwidth",
+		"不保持纵横比例使图片的宽高完全拉伸至填满图片元素容器":"auto",
+		"闪蓝色":"dodgerblue",
+		"橘黄色":"orange",
+		"红色":"red",
+		"绿色":"MediumSpringGreen"
+		
+		}
+}
