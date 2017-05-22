@@ -3,7 +3,7 @@
       "type": "名胜简介",
       "color": "dodgerblue",
       "date": "2017-04-11",
-      "image":"top3.png",
+      "image":"strategy/top3.png",
       "title": "故宫",
 		"other_detail":[
 		{"text":"北京故宫是中国明清两代的皇家宫殿，旧称为紫禁城，位于北京中轴线的中心，是中国古代宫廷建筑之精华。","image":"","position":"","display":"normal"},

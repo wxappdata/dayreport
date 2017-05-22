@@ -3,7 +3,7 @@
       	"type":"名胜简介",
       	"color":"dodgerblue",
       	"date":"2017-04-24",
-      	"image":"top1.png",
+      	"image":"scenery/top1.png",
       	"title":"玉龙雪山",
 		"other_detail":[
       	{"text":"玉龙雪山位于东经100°4′2″～100°16′30″、北纬27°3′2″～27°18′57″之间，主峰扇子陡海拔5596米，终年积雪，发育有亚欧大陆距离赤道最近的温带海洋性冰川。","image":"scenery/top1.png","position":"right","display":"keeplong"},
