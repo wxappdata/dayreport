@@ -8,7 +8,7 @@
 		{"名胜简介":"scenery"},
 		{"旅游攻略":"strategy"}
 		],
-	"transformation":{
+	"转换表":{
 		"基本路径":"baseurl",
 		"底部介绍文字":"bottomtext",
 		"底部商标图片":"bottomimg",
