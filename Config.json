@@ -6,6 +6,9 @@
 	"具体内容数据": "https://raw.githubusercontent.com/wxappdata/dayreport/master/indexdata.json",
 	"搜索分类列表":[
 		{"搜索名称":"名胜简介","对应路径":"scenery"},
+		{"搜索名称":"旅游攻略","对应路径":"strategy"},
+		{"搜索名称":"旅游攻略","对应路径":"strategy"},
+		{"搜索名称":"旅游攻略","对应路径":"strategy"},
 		{"搜索名称":"旅游攻略","对应路径":"strategy"}
 		],
 	"转换表":{
