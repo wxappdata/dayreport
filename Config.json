@@ -2,8 +2,8 @@
 	"基本路径":"https://raw.githubusercontent.com/wxappdata/dayreport/master/",
 	"底部介绍文字":"",
 	"底部商标图片":"",
-	"顶部轮播数据": "https://raw.githubusercontent.com/wxappdata/dayreport/master/topdata.json5",
-	"具体内容数据": "https://raw.githubusercontent.com/wxappdata/dayreport/master/indexdata.json",
+	"顶部轮播数据": "https://raw.githubusercontent.com/wxappdata/dayreport/master/topdata.json",
+	"具体内容数据": "https://raw.githubusercontent.com/wxappdata/dayreport/master/indexdata.json3",
 	"搜索分类列表":[
 		{"名胜简介":"scenery"},
 		{"旅游攻略":"strategy"}
