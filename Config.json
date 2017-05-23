@@ -1,19 +1,20 @@
 {
-	"baseurl":"https://raw.githubusercontent.com/wxappdata/dayreport/master/",
-	"bottomtext":"",
-	"bottomimg":"",
-	"topdata": "https://raw.githubusercontent.com/wxappdata/dayreport/master/topdata.json",
-	"indexdata": "https://raw.githubusercontent.com/wxappdata/dayreport/master/indexdata.json",
-	"searchtype":[
+	"基本路径":"https://raw.githubusercontent.com/wxappdata/dayreport/master/",
+	"底部介绍文字":"",
+	"底部商标图片":"",
+	"顶部轮播数据": "https://raw.githubusercontent.com/wxappdata/dayreport/master/topdata.json",
+	"具体内容数据": "https://raw.githubusercontent.com/wxappdata/dayreport/master/indexdata.json",
+	"搜索分类列表":[
 		{"名胜简介":"scenery"},
 		{"旅游攻略":"strategy"}
 		],
-	"转换表":{
+	"transformation":{
 		"基本路径":"baseurl",
 		"底部介绍文字":"bottomtext",
 		"底部商标图片":"bottomimg",
 		"顶部轮播数据":"topdata",
 		"具体内容数据":"indexdata",
+		"搜索分类列表":"searchtype",
 		"序号":"id",
 		"类型":"type",
 		"颜色":"color",
@@ -38,6 +39,5 @@
 		"橘黄色":"orange",
 		"红色":"red",
 		"绿色":"MediumSpringGreen"
-		
 		}
 }
