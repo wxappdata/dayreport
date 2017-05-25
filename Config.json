@@ -24,7 +24,7 @@
 		"类型":"type",
 		"颜色":"color",
 		"图片":"image",
-		"日期":"data",
+		"日期":"date",
 		"标题":"title",
 		"每日简讯":"info_detail",
 		"其他信息":"other_detail",
