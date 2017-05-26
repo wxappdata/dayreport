@@ -5,11 +5,8 @@
 	"顶部轮播数据": "https://raw.githubusercontent.com/wxappdata/dayreport/master/topdata.json",
 	"具体内容数据": "https://raw.githubusercontent.com/wxappdata/dayreport/master/indexdata.json",
 	"搜索分类列表":[
-		{"搜索名称":"名胜简介","对应路径":"scenery"},
-		{"搜索名称":"旅游攻略","对应路径":"strategy"},
-		{"搜索名称":"旅游攻略","对应路径":"strategy"},
-		{"搜索名称":"旅游攻略","对应路径":"strategy"},
-		{"搜索名称":"旅游攻略","对应路径":"strategy"}
+		"搜索名称",
+		"旅游攻略"
 		],
 	"转换表":{
 		"基本路径":"baseurl",
